@@ -312,7 +312,7 @@ Você pode usar, modificar e distribuir livremente, inclusive comercialmente. A 
 
 <div align="center">
 
-**Feito no Brasil 🇧🇴 pela comunidade brasileira**
+**Feito no Brasil 🇧🇷  pela comunidade brasileira**
 
 *Fork do Freedom Tool — nenhuma empresa, nenhum partido, nenhum servidor*
 
